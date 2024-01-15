@@ -1,0 +1,17 @@
+C:\Users\Hayley\Documents\Coding\C#\MealPicker\obj\Debug\net8.0\MealPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hayley\Documents\Coding\C#\MealPicker\obj\Debug\net8.0\MealPicker.AssemblyInfoInputs.cache
+C:\Users\Hayley\Documents\Coding\C#\MealPicker\obj\Debug\net8.0\MealPicker.AssemblyInfo.cs
+C:\Users\Hayley\Documents\Coding\C#\MealPicker\obj\Debug\net8.0\MealPicker.csproj.CoreCompileInputs.cache
+C:\Users\Hayley\Documents\Coding\C#\MealPicker\obj\Debug\net8.0\MealPicker.csproj.AssemblyReference.cache
+C:\Users\Hayley\Documents\Coding\C#\MealPicker\bin\Debug\net8.0\MealPicker.exe
+C:\Users\Hayley\Documents\Coding\C#\MealPicker\bin\Debug\net8.0\MealPicker.deps.json
+C:\Users\Hayley\Documents\Coding\C#\MealPicker\bin\Debug\net8.0\MealPicker.runtimeconfig.json
+C:\Users\Hayley\Documents\Coding\C#\MealPicker\bin\Debug\net8.0\MealPicker.dll
+C:\Users\Hayley\Documents\Coding\C#\MealPicker\bin\Debug\net8.0\MealPicker.pdb
+C:\Users\Hayley\Documents\Coding\C#\MealPicker\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Hayley\Documents\Coding\C#\MealPicker\obj\Debug\net8.0\MealPicker.csproj.CopyComplete
+C:\Users\Hayley\Documents\Coding\C#\MealPicker\obj\Debug\net8.0\MealPicker.dll
+C:\Users\Hayley\Documents\Coding\C#\MealPicker\obj\Debug\net8.0\refint\MealPicker.dll
+C:\Users\Hayley\Documents\Coding\C#\MealPicker\obj\Debug\net8.0\MealPicker.pdb
+C:\Users\Hayley\Documents\Coding\C#\MealPicker\obj\Debug\net8.0\MealPicker.genruntimeconfig.cache
+C:\Users\Hayley\Documents\Coding\C#\MealPicker\obj\Debug\net8.0\ref\MealPicker.dll

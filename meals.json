@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Meal1",
+    "MainMethod": "Hob",
+    "Location": "PoN"
+  },
+  {
+    "Name": "Meal2",
+    "MainMethod": "Air Fryer",
+    "Location": "TamingTwins"
+  },
+  {
+    "Name": "Meal3",
+    "MainMethod": "Oven",
+    "Location": "PoN"
+  },
+  {
+    "Name": "Meal4",
+    "MainMethod": "Slow Cooker",
+    "Location": "TamingTwins"
+  },
+  {
+    "Name": "Meal5",
+    "MainMethod": "Slow Cooker",
+    "Location": "PoN"
+  },
+  {
+    "Name": "Meal6",
+    "MainMethod": "Air Fryer",
+    "Location": "TamingTwins"
+  }
+]
