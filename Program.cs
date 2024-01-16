@@ -8,7 +8,7 @@ class Program
     class Meal
     {
         public string? Name { get; set; }
-        public string? MainMethod { get; set; }
+        public string? CookingMethod { get; set; }
         public string? Location { get; set; }
 
         public string? MainIngredient { get; set; } // New property for main ingredient
@@ -37,7 +37,7 @@ class Program
 
         // Filter meals based on user input
         List<Meal> filteredMeals = meals
-            .Where(meal => (string.IsNullOrEmpty(preferredCookingMethod) || meal.MainMethod == preferredCookingMethod)
+            .Where(meal => (string.IsNullOrEmpty(preferredCookingMethod) || meal.CookingMethod == preferredCookingMethod)
                 && (string.IsNullOrEmpty(mainIngredient) || meal.MainIngredient == mainIngredient))
             .ToList();
 
@@ -92,7 +92,7 @@ class Program
 
                 foreach (var meal in selectedMeals)
                 {
-                    writer.WriteLine($"{meal.Name} - Cooking Method: {meal.MainMethod} - Location: {meal.Location}");
+                    writer.WriteLine($"{meal.Name} - Cooking Method: {meal.CookingMethod} - Location: {meal.Location}");
                 }
             }
 

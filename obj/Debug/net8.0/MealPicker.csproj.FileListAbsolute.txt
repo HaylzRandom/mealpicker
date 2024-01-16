@@ -15,3 +15,4 @@ C:\Users\Hayley\Documents\Coding\C#\MealPicker\obj\Debug\net8.0\refint\MealPicke
 C:\Users\Hayley\Documents\Coding\C#\MealPicker\obj\Debug\net8.0\MealPicker.pdb
 C:\Users\Hayley\Documents\Coding\C#\MealPicker\obj\Debug\net8.0\MealPicker.genruntimeconfig.cache
 C:\Users\Hayley\Documents\Coding\C#\MealPicker\obj\Debug\net8.0\ref\MealPicker.dll
+C:\Users\Hayley\Documents\Coding\C#\MealPicker\obj\Debug\net8.0\MealPicker.sourcelink.json
